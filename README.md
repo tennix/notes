@@ -1,3 +1,3 @@
-This is [tennix](https://github.com/tennix) blog source project.
+I'm [Tennix](https://github.com/tennix), I write my thoughts and notes here.
 
-My blog is [here](http://tennix.github.io)
+I publish my notes [here](http://tennix.github.io).
